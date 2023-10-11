@@ -6,6 +6,10 @@ https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
 
 https://aws.amazon.com/serverless/sam/
 
+## install Docker
+
+https://docs.docker.com/desktop/install/windows-install/
+
 ## Set CLI configure
 
 aws configure
