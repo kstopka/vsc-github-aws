@@ -6,6 +6,18 @@ https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
 
 https://aws.amazon.com/serverless/sam/
 
+## Set CLI configure
+
+aws configure
+AWS Access Key ID [None]: AKIAIOSFODNN7EXAMPLE
+AWS Secret Access Key [None]: wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+Default region name [None]: us-west-2
+Default output format [None]: json
+
+## Edit CLI configure
+
+ctrl+shift+p => >AWS: Edit Credentials
+
 ## AWS on VSC
 
 install AWS Toolkit
