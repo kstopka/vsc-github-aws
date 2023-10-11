@@ -1,11 +1,14 @@
-name: Update Function Code
+name: Deploy Functions
 
 on:
-  workflow_call:
-    inputs:
-      environment:
-        required: true
-        type: string
+  push:
+    branches: [main]
+# on:
+# workflow_call:
+#   inputs:
+#     environment:
+#       required: true
+#       type: string
 jobs:
   get-filenames:
     runs-on: ubuntu-latest
